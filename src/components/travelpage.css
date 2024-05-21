@@ -1,0 +1,38 @@
+.travel-page {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #F7DC6F;
+    color: #1B2631;
+  }
+  
+  .travel-header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .travel-articles {
+    margin-top: 20px;
+  }
+  
+  .travel-article {
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+  }
+  
+  .travel-article h2 {
+    margin: 0 0 10px;
+  }
+  
+  .travel-article p {
+    margin: 10px 0;
+  }
+  
+  .travel-article img.travel-article-image {
+    max-width: 100%;
+    height: auto;
+    margin: 10px 0;
+  }
+  

@@ -1,0 +1,38 @@
+.lifestyle-page {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #C39BD3 ;
+    color: black;
+  }
+  
+  .lifestyle-header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .lifestyle-articles {
+    margin-top: 20px;
+  }
+  
+  .lifestyle-article {
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+  }
+  
+  .lifestyle-article h2 {
+    margin: 0 0 10px;
+  }
+  
+  .lifestyle-article p {
+    margin: 10px 0;
+  }
+  
+  .lifestyle-article img.lifestyle-article-image {
+    max-width: 40%;
+    height: auto;
+    margin: 10px 0;
+  }
+  
